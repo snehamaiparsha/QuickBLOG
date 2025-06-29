@@ -1,6 +1,6 @@
-# QuivkBLOG
+# QuickBLOG
 
-blogging platform using MongoDB, Express, React and Node JS.
+Blogging platform using MongoDB, Express, React and Node JS.
 
 ##  Hers's a  quick live versioin of the website
 
